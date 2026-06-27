@@ -1,2 +1,2 @@
-# laughing-octo-couscous
-A webpage showing our collective group project
+# a webpage celebrating festac 77
+A webpage showing our cultural heritage
